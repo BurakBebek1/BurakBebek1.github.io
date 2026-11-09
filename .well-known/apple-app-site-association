@@ -1,0 +1,21 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [
+          "746TBCSDKB.com.burak.dronehunter"
+        ],
+        "components": [
+          {
+            "/": "/invite/*",
+            "comment": "friend invites"
+          }
+        ]
+      }
+    ],
+    "apps": []
+  },
+  "webcredentials": {
+    "apps": []
+  }
+}
